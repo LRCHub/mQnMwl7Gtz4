@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'd Rather Pretend",
+  "base_artist": "Bryant Barnes",
+  "createdAt": "2026-02-28T09:40:26.623342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend (Lyric Visualizer)",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/01_I'd_Rather_Pretend_(Lyric_Visualizer)_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "BRYANT BARNES",
+      "has_synced": true,
+      "path": "select/02_I'd_Rather_Pretend_BRYANT_BARNES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bryant Barnes - I'd Rather Pretend",
+      "artist": "BRYANT BARNES",
+      "has_synced": true,
+      "path": "select/03_Bryant_Barnes_-_I'd_Rather_Pretend_BRYANT_BARNES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/04_I'd_Rather_Pretend_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/05_I'd_Rather_Pretend_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/06_I'd_Rather_Pretend_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/07_I'd_Rather_Pretend_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bryant Barnes - I'd Rather Pretend",
+      "artist": "BRYANT BARNES",
+      "has_synced": true,
+      "path": "select/08_Bryant_Barnes_-_I'd_Rather_Pretend_BRYANT_BARNES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/09_I'd_Rather_Pretend_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bryant barnes - i'd rather pretend (lyrics",
+      "artist": "Video • vhes",
+      "has_synced": true,
+      "path": "select/10_bryant_barnes_-_i'd_rather_pretend_(lyrics_Video_•_vhes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A I'd Rather Pretend",
+      "artist": "BRYANT BARNES",
+      "has_synced": true,
+      "path": "select/11_A_I'd_Rather_Pretend_BRYANT_BARNES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "BRYANT BARNES",
+      "has_synced": true,
+      "path": "select/12_I'd_Rather_Pretend_BRYANT_BARNES.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend (Acoustic)",
+      "artist": "Bryant Barnes",
+      "has_synced": false,
+      "path": "select/13_I'd_Rather_Pretend_(Acoustic)_Bryant_Barnes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bryant Barnes - I'd Rather Pretend (Lyrics)",
+      "artist": "Dan Music",
+      "has_synced": true,
+      "path": "select/14_Bryant_Barnes_-_I'd_Rather_Pretend_(Lyrics)_Dan_Music.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend (with d4vd)",
+      "artist": "Bryant Barnes",
+      "has_synced": true,
+      "path": "select/15_I'd_Rather_Pretend_(with_d4vd)_Bryant_Barnes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes & d4vd",
+      "has_synced": true,
+      "path": "select/16_I'd_Rather_Pretend_Bryant_Barnes_&_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'd Rather Pretend",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/17_I'd_Rather_Pretend_d4vd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'd Rather Pretend",
+      "artist": "Bryant Barnes",
+      "has_synced": false,
+      "path": "select/pl_01_I'd_Rather_Pretend_Bryant_Barnes.txt"
+    }
+  ]
+}
